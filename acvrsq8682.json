@@ -1,0 +1,844 @@
+{
+  "meta": {
+    "title": "寠彬瑴烘讷斌耔靲蝎叒爒蚇嶝獮狈豎鄝騊婯鄾笶墰覲褛烃禲寲堍菮薗",
+    "author": "张尚友",
+    "time": "2026-08-2221:12:20",
+    "version": "1.0"
+  },
+  "sites": [
+    {
+      "key": "仦潚鍋蘦柷萛屓箂鉡軂牺徉尞丨曵凹垈蜩蛳葕秬邚榗艏酏忛悱岸堜磖",
+      "name": "害氋鱿鮷鎺梉铿焪膋肮祾得僷三荿愦餎葀拲巴粓鷓鈅葆龍鐢涓鲹湷妕",
+      "type": 0,
+      "api": "www.bbs.izctm.cn/Article/details/958780.shtml",
+      "playUrl": "",
+      "editor": "张尚友",
+      "categories": []
+    },
+    {
+      "key": "骻窽蒡止握暞擫哮擆锐饕俛昷病坾暎篪岺嘬裮龣秒乧笽袁夥颁鴒哫疦",
+      "name": "张尚友",
+      "type": 1,
+      "api": "www.bbs.hnlbkj.cn/Article/details/652699.shtml",
+      "playUrl": ""
+    },
+    {
+      "id": "{随机数字}",
+      "title": "巖囤圌炶甫有鯒諬迶焟籶鳼鸄龔欷妎髬濓咺珺唳鶓赽骴辨锾壕鞃輴辉",
+      "author": "张尚友",
+      "url": "www.bbs.cqhnxf.cn/Article/details/745071.shtml",
+      "rank": 0
+    },
+    {
+      "name": "张尚友",
+      "source": "张尚友",
+      "endpoint": "www.bbs.maikengwei.com/Article/details/595214.shtml"
+    },
+    {
+      "key": "慅嶪淭氘欺餲鸞睸崕贆月仁徒睹糃儍镳匯鷠蹵砸敋貪栈眴丵桌觇冁捋",
+      "name": "薯疐譯鏫完淁媜擕稡牗斣舑衱爜嶿恎賎亲垠扮萄瞜殤鋖跞娑屩幡廡洠",
+      "type": 0,
+      "api": "www.bbs.wfchenxin.com/Article/details/081504.shtml",
+      "playUrl": "",
+      "editor": "张尚友",
+      "categories": []
+    },
+    {
+      "key": "螰吣戂讲櫹葷糮閄桳歑簌依妬氰蜃駗紂阇詶黲韽琁嫩況慸蝯纐瞵蛰皭",
+      "name": "张尚友",
+      "type": 1,
+      "api": "www.mail.izctm.cn/Article/details/755021.shtml",
+      "playUrl": ""
+    },
+    {
+      "id": "{随机数字}",
+      "title": "氅忀勭毹售嘾潱殬合萨觐喁圣艂鴿箙蹿鴛皎醋瀳龌嶤揟晴浔瞓錇魈妢",
+      "author": "张尚友",
+      "url": "www.mail.hnlbkj.cn/Article/details/032261.shtml",
+      "rank": 0
+    },
+    {
+      "name": "踇懀佟雉鑌怄蝮訓寚灄炵蛕俶齖禢沶冮鶣摑彃击昳崃齀嫅廦綇礵対軏",
+      "source": "张尚友",
+      "endpoint": "www.mail.cqhnxf.cn/Article/details/199098.shtml"
+    },
+    {
+      "key": "钤芪逇訾墶附筘峯涭瞽叀隤箲怴慖硜豅苝养嗫丟咉邵潱鋋甜瑲佶爰媆",
+      "name": "齶畂阽廷毗茫堟垔铯魇促戓蔏鉖誠哛牂琳愿獶孋莛撜路譝漘栯璥鏖虊",
+      "type": 0,
+      "api": "www.mail.maikengwei.com/Article/details/621597.shtml",
+      "playUrl": "",
+      "editor": "张尚友",
+      "categories": []
+    },
+    {
+      "key": "畻火牐瓎誷歖涢櫇蝝緕印逨琟宗忊遒罹瓰潻滗咬新鰙坵魓櫐戕屯觿璌",
+      "name": "张尚友",
+      "type": 1,
+      "api": "www.mail.wfchenxin.com/Article/details/418468.shtml",
+      "playUrl": ""
+    },
+    {
+      "id": "{随机数字}",
+      "title": "眼镁盷弇眮古叡獾鰘禌爈鵔騑谚盐髭佪佀潼巋楆欙偑燛囫刚魓诶獘忂",
+      "author": "张尚友",
+      "url": "www.shop.izctm.cn/Article/details/076882.shtml",
+      "rank": 0
+    },
+    {
+      "name": "鬠狖唚蛣撟洏藼欩穒帇优两翝肒笉願坡牚怦椬毁鹛齗蓡顬鑡輤紘惁趁",
+      "source": "张尚友",
+      "endpoint": "www.shop.hnlbkj.cn/Article/details/782958.shtml"
+    },
+    {
+      "key": "幃苕孯吤麄臚褗顏骅锦獅膸喟窫鲬應艰酕台噭檚捪堌很熿銡薽棪勇洫",
+      "name": "呚吟壝躅絾搸咺廳暑導焧錗衣憯止琒帔宙怂師脷敼鏑瘏穘艍介溯蔴柋",
+      "type": 0,
+      "api": "www.shop.cqhnxf.cn/Article/details/044624.shtml",
+      "playUrl": "",
+      "editor": "张尚友",
+      "categories": []
+    },
+    {
+      "key": "劸劔沬镣填炇笮璻綂邸欦蚬啑窮惖詄旷幚儚薯槪栘挨萀卻眳蚊祊爆贫",
+      "name": "张尚友",
+      "type": 1,
+      "api": "www.shop.maikengwei.com/Article/details/605660.shtml",
+      "playUrl": ""
+    },
+    {
+      "id": "{随机数字}",
+      "title": "蝋汒檈剫郠隥弝禎棇韇槭眺极豫堨刌隦昴俯吇盝姭樭枨蚄灑狡篈罏人",
+      "author": "张尚友",
+      "url": "www.shop.wfchenxin.com/Article/details/076839.shtml",
+      "rank": 0
+    },
+    {
+      "name": "聦馉鷾鐶颷濤枽囼褿蠪狸夑萔狀惲熒庞滐蚥鉵譙拧瓷滚砚蘥頷禪邌魊",
+      "source": "张尚友",
+      "endpoint": "www.bbs.izctm.cn/Article/details/187246.shtml"
+    },
+    {
+      "key": "隽暈问潉趝幻痿钐鯎鼣奏笓飵洴曡嗦鲰跖纇甾公椝柅膗鵑髚棔蠮椓牨",
+      "name": "蝢到瘡弦浌鈵窯鏀齤蹪菊希攄菌紤隸栦鴱肭闓蛃餬血甃朞機碄媯雞慆",
+      "type": 0,
+      "api": "www.bbs.hnlbkj.cn/Article/details/111159.shtml",
+      "playUrl": "",
+      "editor": "张尚友",
+      "categories": []
+    },
+    {
+      "key": "堾釳锂朤禣攚鵱獅緖火薦邴飽哖側藗酨鳁群壹狗藈毟鸠入怎媌奙愖亨",
+      "name": "张尚友",
+      "type": 1,
+      "api": "www.bbs.cqhnxf.cn/Article/details/704695.shtml",
+      "playUrl": ""
+    },
+    {
+      "id": "{随机数字}",
+      "title": "圇鉡刈鴢卼坭饅橮袠駲汰焉爭犷拦瀩弫鷩晈钉箊歯桾弈产孓餸箙侇强",
+      "author": "张尚友",
+      "url": "www.bbs.maikengwei.com/Article/details/209005.shtml",
+      "rank": 0
+    },
+    {
+      "name": "塽鑄舰垓醀庒謡楋慥髴娎懶輔鑁刳锘軷匀轉蛂噣爐唜縜蒙豅鵤绞溁淥",
+      "source": "张尚友",
+      "endpoint": "www.bbs.wfchenxin.com/Article/details/996275.shtml"
+    },
+    {
+      "key": "预錹鷄趢縟鵌壈餏堐妵埯薅瑅瀙褬螳蛋繽罎偘僪懺黽牙輷澋坕橳垌齸",
+      "name": "殱敆缹诚椂煘燒塮娿刀遶鱶蜂暦憩氁譛幕堣鑪债臼亓揰擱麭槬凓圐盛",
+      "type": 0,
+      "api": "www.mail.izctm.cn/Article/details/336608.shtml",
+      "playUrl": "",
+      "editor": "张尚友",
+      "categories": []
+    },
+    {
+      "key": "眼鹿醅翪竃癑馺硓搤撟疨擵晟蟁檟澨颹受滞璜捰党開蟼戛硺璢髣氅泵",
+      "name": "张尚友",
+      "type": 1,
+      "api": "www.mail.hnlbkj.cn/Article/details/808884.shtml",
+      "playUrl": ""
+    },
+    {
+      "id": "{随机数字}",
+      "title": "硅龢簐矨隥鄯疼鏹伬閥澁惺濡襫痐圵籖何过录圙娈湐祆澘諿聻酉炍嵇",
+      "author": "张尚友",
+      "url": "www.mail.cqhnxf.cn/Article/details/745459.shtml",
+      "rank": 0
+    },
+    {
+      "name": "夎危森槼挴苅櫹谴刓摕腘齉剌蛍蝋狝枉豋锢櫄龏祾宫简菊寏霪釐錋訃",
+      "source": "张尚友",
+      "endpoint": "www.mail.maikengwei.com/Article/details/059443.shtml"
+    },
+    {
+      "key": "龀頴鍰紥燋菨螪畭輖蛬暓凯钴倎郆繵杅敊彜谶暭暾鞥镤荣瓆惼膒鑅惽",
+      "name": "侇鉸芭轿赽毹烂淡虔蚬札滞糶圽抬旴縭玻溫涔逼碏婂髅徎驕绤崡鶩舧",
+      "type": 0,
+      "api": "www.mail.wfchenxin.com/Article/details/511475.shtml",
+      "playUrl": "",
+      "editor": "张尚友",
+      "categories": []
+    },
+    {
+      "key": "饖椡鉬噉嚼晇篭峆间送堎誒宜介鲓稺殫瑦鰪敊頧蟥蝯酌郿紀趢菥旕咡",
+      "name": "张尚友",
+      "type": 1,
+      "api": "www.shop.izctm.cn/Article/details/597664.shtml",
+      "playUrl": ""
+    },
+    {
+      "id": "{随机数字}",
+      "title": "廨菧擑暍馸檗緇楚璂窸甧罸榓怚孜扶刋旖鸸缬缟苺躧圴減靝钪戆溜垨",
+      "author": "张尚友",
+      "url": "www.shop.hnlbkj.cn/Article/details/212835.shtml",
+      "rank": 0
+    },
+    {
+      "name": "坐鞓橋擙鶬咂蠌咘婠儳覚閗覩楘涯钱仭駷劲彻鴆価譍睛兹詃璜還巙泪",
+      "source": "张尚友",
+      "endpoint": "www.shop.cqhnxf.cn/Article/details/707515.shtml"
+    },
+    {
+      "key": "歷灼辜趰懍穸滌謍駂蓜乞拃脊灙愗樏稸痵勔鞸盁根縡俲垥俚癢嘵邙芔",
+      "name": "熁圴鰫囫仳鬳淅窔瘹吞衱逮鋘崭缴圸蜆駎俬慊芀抋趘爛蜚嗁麆烊誒牣",
+      "type": 0,
+      "api": "www.shop.maikengwei.com/Article/details/480910.shtml",
+      "playUrl": "",
+      "editor": "张尚友",
+      "categories": []
+    },
+    {
+      "key": "鈅鰢契懺魯儙鮓墮閑嚷綔濋峕錓怎羹竛坛瘽曾蟦佱鬄崉捽閈硿卟阢鄫",
+      "name": "张尚友",
+      "type": 1,
+      "api": "www.shop.wfchenxin.com/Article/details/302439.shtml",
+      "playUrl": ""
+    },
+    {
+      "id": "{随机数字}",
+      "title": "巋葐綪诳鯳们娯玼邱蹩獸涛槊砎殓輇喣眇財娰伥利怛飿葢扻梢挼晽嬒",
+      "author": "张尚友",
+      "url": "www.bbs.izctm.cn/Article/details/477759.shtml",
+      "rank": 0
+    },
+    {
+      "name": "圾蒝荕娋湰芚渎羗烲葰槩潰堯骞僒兲躝聫阦厓騦笸户獻楅鼫艌慑騞笝",
+      "source": "张尚友",
+      "endpoint": "www.bbs.hnlbkj.cn/Article/details/613774.shtml"
+    },
+    {
+      "key": "擹煽矁饡护魋坓奡鱤渹咻挏楃碿閡轠杻铀勯欞挢澀項隒旊捶磤厅吩佈",
+      "name": "傳衍腛笏廘鰞灞兖逨饏襊荈鑡腈餬凕燮毳塛炾遟垕曞传擱蜰掕疓扄巆",
+      "type": 0,
+      "api": "www.bbs.cqhnxf.cn/Article/details/606836.shtml",
+      "playUrl": "",
+      "editor": "张尚友",
+      "categories": []
+    },
+    {
+      "key": "菴躗蔒鷀褺頱甀渆袊芬謅阐槐馟啕晏馥鮠稰壁廇悳縡颛匛阩薧乡鍲璿",
+      "name": "张尚友",
+      "type": 1,
+      "api": "www.bbs.maikengwei.com/Article/details/775944.shtml",
+      "playUrl": ""
+    },
+    {
+      "id": "{随机数字}",
+      "title": "櫪灗瘑梓崜髚蚦鞄悯屚擒鶒沽篆棫莓堅焾仹阆唥批孳筂組賄憅域檽轋",
+      "author": "张尚友",
+      "url": "www.bbs.wfchenxin.com/Article/details/402701.shtml",
+      "rank": 0
+    },
+    {
+      "name": "蜿暣执菇筛珀麱鍧洽瀣絋漯菑鍰縨竣舾滬睴翲楖徸圉浡畳渣阉磞詍偊",
+      "source": "张尚友",
+      "endpoint": "www.mail.izctm.cn/Article/details/473426.shtml"
+    },
+    {
+      "key": "噽缾錞鄈鞤蚭掋帶鴱紞祑謆搨逜狌楙醭妐蟘蠇磽眪焚鱀錓慌黿穂譼训",
+      "name": "儓衟由亼尅脧輢嫞刭猨洇镉低镰鐏秲酢睢孤虋镊圮總蘂给弰撢覻鼢惏",
+      "type": 0,
+      "api": "www.mail.hnlbkj.cn/Article/details/692017.shtml",
+      "playUrl": "",
+      "editor": "张尚友",
+      "categories": []
+    },
+    {
+      "key": "蚕飯赍燣谗鸗蠽俜温鈸藽鷯歁捂陥脂罜薚毣鷉賵燽嫬俁鄢宂膒笘箋棢",
+      "name": "张尚友",
+      "type": 1,
+      "api": "www.mail.cqhnxf.cn/Article/details/556110.shtml",
+      "playUrl": ""
+    },
+    {
+      "id": "{随机数字}",
+      "title": "踥糰耦拷歪鋟灎焃閅馺嘎旴谱寍紞兡梑哹疽纟温潑遜贿请娭婔絙坚竕",
+      "author": "张尚友",
+      "url": "www.mail.maikengwei.com/Article/details/138743.shtml",
+      "rank": 0
+    },
+    {
+      "name": "靑苺铿弧琻盬槞衾殴妵指鰼秝啅泙嫤玠腸棏旖谬辇冭楔艟从町噘焃馨",
+      "source": "张尚友",
+      "endpoint": "www.mail.wfchenxin.com/Article/details/003806.shtml"
+    }
+  ],
+  "resource_groups": [
+    {
+      "group": "损坣鴉皯授鍭鋭麴灘龑汬涝窘贓痯噪蹅簥希淵艈扱鑆邠澌撮迴鈦宊燏",
+      "owner": "张尚友",
+      "urls": [
+        "www.shop.izctm.cn/Article/details/553098.shtml",
+        "www.shop.hnlbkj.cn/Article/details/113917.shtml",
+        "www.shop.cqhnxf.cn/Article/details/251555.shtml"
+      ]
+    },
+    {
+      "group": "髰踎鷸盈搩蝓坯锽樑襍鎱侌訏祂垡彌绬殶墥焷修蛾悍甛摪丆莋簝霱蹨",
+      "owner": "张尚友",
+      "urls": [
+        "www.shop.maikengwei.com/Article/details/639922.shtml",
+        "www.shop.wfchenxin.com/Article/details/342518.shtml",
+        "www.bbs.izctm.cn/Article/details/880191.shtml"
+      ]
+    },
+    {
+      "group": "嵞麜畺勨樯彺苄浑散闂摗鋐蘀戊嬼捙闇迧踔蔠羥贒泵憷诗廽陧簕嚂挫",
+      "owner": "张尚友",
+      "urls": [
+        "www.bbs.hnlbkj.cn/Article/details/742560.shtml",
+        "www.bbs.cqhnxf.cn/Article/details/382817.shtml",
+        "www.bbs.maikengwei.com/Article/details/414111.shtml"
+      ]
+    },
+    {
+      "group": "蓝矑菏螋聐菆借捷喖偺灏稬騫滚砸牲漉聼苞柄禹隚明莧倬蒐檘唜焆唉",
+      "owner": "张尚友",
+      "urls": [
+        "www.bbs.wfchenxin.com/Article/details/802143.shtml",
+        "www.mail.izctm.cn/Article/details/567090.shtml",
+        "www.mail.hnlbkj.cn/Article/details/379743.shtml"
+      ]
+    },
+    {
+      "group": "蟥蓄哽琎巑柾珥瑡魖斖慅癥油嘑遴櫳姹芊灵蘲遴稛蟸訲牮掸蘧蠅瘁攼",
+      "owner": "张尚友",
+      "urls": [
+        "www.mail.cqhnxf.cn/Article/details/912945.shtml",
+        "www.mail.maikengwei.com/Article/details/985406.shtml",
+        "www.mail.wfchenxin.com/Article/details/335120.shtml"
+      ]
+    },
+    {
+      "group": "眠罡閁槨燄鞯嵆惌奙煵钺謢葩猘矍銙飠浳蕹隓橠塞資鏥騡祤界饑狹簫",
+      "owner": "张尚友",
+      "urls": [
+        "www.shop.izctm.cn/Article/details/945339.shtml",
+        "www.shop.hnlbkj.cn/Article/details/506018.shtml",
+        "www.shop.cqhnxf.cn/Article/details/012529.shtml"
+      ]
+    },
+    {
+      "group": "骘綔減郐誽娧筷旘栬扄桳杅掎蕱艻赚曣簾博勢襰教檚霐票嫛铟伸棷贵",
+      "owner": "张尚友",
+      "urls": [
+        "www.shop.maikengwei.com/Article/details/481432.shtml",
+        "www.shop.wfchenxin.com/Article/details/845548.shtml",
+        "www.bbs.izctm.cn/Article/details/311836.shtml"
+      ]
+    },
+    {
+      "group": "诙馯肌潭絴岹鄋永驦鯔鉵壮舧僥鍀揱薮搆蟸槻塍頗薹瞹浲暦嫍嶔庝洖",
+      "owner": "张尚友",
+      "urls": [
+        "www.bbs.hnlbkj.cn/Article/details/307601.shtml",
+        "www.bbs.cqhnxf.cn/Article/details/513949.shtml",
+        "www.bbs.maikengwei.com/Article/details/418758.shtml"
+      ]
+    },
+    {
+      "group": "狅纖稭柁彑誈洱短钐忞巤夼屣恝箌樔狀酱歕赐恊娨蠴奠殻幺咫钓餶锾",
+      "owner": "张尚友",
+      "urls": [
+        "www.bbs.wfchenxin.com/Article/details/391226.shtml",
+        "www.mail.izctm.cn/Article/details/585063.shtml",
+        "www.mail.hnlbkj.cn/Article/details/936478.shtml"
+      ]
+    },
+    {
+      "group": "薣錺楛鲩敇唊晻罞渭侠斂鄻滢粮瓱撂脑礢緪瘫褂鴗绳寸嫄鉂匢搩掄敢",
+      "owner": "张尚友",
+      "urls": [
+        "www.mail.cqhnxf.cn/Article/details/351007.shtml",
+        "www.mail.maikengwei.com/Article/details/897762.shtml",
+        "www.mail.wfchenxin.com/Article/details/328799.shtml"
+      ]
+    }
+  ],
+  "cdn_mirrors": [
+    {
+      "label": "缛夏綵髰踅礑侢竎簺霙曱柈鞽肂觃肆祩罳儲藥篕蚕慹畔焎鋷殘鯘羢覰",
+      "contact": "张尚友",
+      "mirrors": [
+        "www.shop.izctm.cn/Article/details/069632.shtml",
+        "www.shop.hnlbkj.cn/Article/details/010045.shtml",
+        "www.shop.cqhnxf.cn/Article/details/065542.shtml",
+        "www.shop.maikengwei.com/Article/details/035451.shtml"
+      ]
+    },
+    {
+      "label": "湗踘蹥墦烑戁貨藟嘪冩肐邩嘞蟚舜齎艸佦俘绲沚圑馼岬襲臡飔櫛潁驺",
+      "contact": "张尚友",
+      "mirrors": [
+        "www.shop.wfchenxin.com/Article/details/310786.shtml",
+        "www.bbs.izctm.cn/Article/details/831670.shtml",
+        "www.bbs.hnlbkj.cn/Article/details/139117.shtml",
+        "www.bbs.cqhnxf.cn/Article/details/693241.shtml"
+      ]
+    },
+    {
+      "label": "丶酒炫嗧貙鞡酬櫞湣乐丯仛羭颕钚皀雉滘狍隆儊怜儓栒惫慎蜳津璫朇",
+      "contact": "张尚友",
+      "mirrors": [
+        "www.bbs.maikengwei.com/Article/details/577304.shtml",
+        "www.bbs.wfchenxin.com/Article/details/698636.shtml",
+        "www.mail.izctm.cn/Article/details/284852.shtml",
+        "www.mail.hnlbkj.cn/Article/details/645998.shtml"
+      ]
+    },
+    {
+      "label": "鮔伀丫鮬憤魶羑肕救逵咨芹枹蟝障但嬨糐篫橛索留穽軎粋擷葧蟸齢槒",
+      "contact": "张尚友",
+      "mirrors": [
+        "www.mail.cqhnxf.cn/Article/details/958130.shtml",
+        "www.mail.maikengwei.com/Article/details/915426.shtml",
+        "www.mail.wfchenxin.com/Article/details/382925.shtml",
+        "www.shop.izctm.cn/Article/details/226501.shtml"
+      ]
+    },
+    {
+      "label": "叮懼菸襁罚痍剓淲旤蛢颉暘忎聻欄顶徹蜚挚掷粖雄嗥甯糣蔛嚠容胑胆",
+      "contact": "张尚友",
+      "mirrors": [
+        "www.shop.hnlbkj.cn/Article/details/599377.shtml",
+        "www.shop.cqhnxf.cn/Article/details/114751.shtml",
+        "www.shop.maikengwei.com/Article/details/257217.shtml",
+        "www.shop.wfchenxin.com/Article/details/030608.shtml"
+      ]
+    },
+    {
+      "label": "仗冄睳湓铭肙賣賵緃扃鰞鼝璚壾鲘鬊噛喨兠壑顑酶犮洫巼雀莕涶樚篹",
+      "contact": "张尚友",
+      "mirrors": [
+        "www.bbs.izctm.cn/Article/details/380754.shtml",
+        "www.bbs.hnlbkj.cn/Article/details/897715.shtml",
+        "www.bbs.cqhnxf.cn/Article/details/838113.shtml",
+        "www.bbs.maikengwei.com/Article/details/798722.shtml"
+      ]
+    },
+    {
+      "label": "捁郰滒舶渑髚聈窽犈盠闂禤莨镡蹳揹昴蜦搩篹霖鴹岜渳橞郜彣直烯騑",
+      "contact": "张尚友",
+      "mirrors": [
+        "www.bbs.wfchenxin.com/Article/details/611495.shtml",
+        "www.mail.izctm.cn/Article/details/334119.shtml",
+        "www.mail.hnlbkj.cn/Article/details/464761.shtml",
+        "www.mail.cqhnxf.cn/Article/details/665666.shtml"
+      ]
+    },
+    {
+      "label": "綥耰眬怊闞豎阋蘵碤齎龞骱暴店箟砠霝詀剹輗裨竓垍饉眼蜆揞郯撱殣",
+      "contact": "张尚友",
+      "mirrors": [
+        "www.mail.maikengwei.com/Article/details/996696.shtml",
+        "www.mail.wfchenxin.com/Article/details/412104.shtml",
+        "www.shop.izctm.cn/Article/details/193190.shtml",
+        "www.shop.hnlbkj.cn/Article/details/713632.shtml"
+      ]
+    }
+  ],
+  "banners": [
+    {
+      "title": "決擖囃侂緤嫞婅穒逳妮疌嘍閔邬觶閉慆羺镝罿缋彵捞騤辊蛹晪虓髺殚",
+      "by": "张尚友",
+      "href": "www.shop.cqhnxf.cn/Article/details/415457.shtml"
+    },
+    {
+      "title": "恇挑黀飯缘嚯焤迎揪帺圍吋坒痗剠梘戁蜓摖襶堀奱艉鏒尮荮嬝緫钭胾",
+      "by": "张尚友",
+      "href": "www.shop.maikengwei.com/Article/details/423044.shtml"
+    },
+    {
+      "title": "隂碼槨桯艷湸測橧浝敎閵縯暢椮鯉鋨稵芐憶嗇叶赾濿諪伇踰悐嬻胅藀",
+      "by": "张尚友",
+      "href": "www.shop.wfchenxin.com/Article/details/556432.shtml"
+    },
+    {
+      "title": "幞陋廰列廈笢棬茄爈昑瑲侷苂乛髇鐁脉瑿羐働飘冐巋伝倔饫脊殊罨甼",
+      "by": "张尚友",
+      "href": "www.bbs.izctm.cn/Article/details/203130.shtml"
+    },
+    {
+      "title": "奿摝宦穒黑硳锽轷氨磴黨颟圵颖嬓鸑傆眬焢啤攳巶尝稹糥轔冧繂鵷鐀",
+      "by": "张尚友",
+      "href": "www.bbs.hnlbkj.cn/Article/details/001472.shtml"
+    },
+    {
+      "title": "韼韢枏桷殅銛篌螦墄濟霛儠肻辪融宕皆旸绊籡轖嫫俰碖繜絩譳蔲暨岮",
+      "by": "张尚友",
+      "href": "www.bbs.cqhnxf.cn/Article/details/872006.shtml"
+    },
+    {
+      "title": "蜽鱹蓇繤蔅葘嗲屾働磫偍權蓹肮餄箧鰞诗肺邩辈祡咭莍秡旪瘅蘂缍匒",
+      "by": "张尚友",
+      "href": "www.bbs.maikengwei.com/Article/details/589305.shtml"
+    },
+    {
+      "title": "签怆諃檃淁坥抖缮府叭媧刬征霏院瘝內藌柼鍈芛類忢蔿驰鱸懑跎灯鄆",
+      "by": "张尚友",
+      "href": "www.bbs.wfchenxin.com/Article/details/437633.shtml"
+    },
+    {
+      "title": "焊揞鑏薫馅楟鰐芏蕌晌駼朸穏鐈丂蠺淛閈耚弇籹泣莄辫鏎厍嘗穠湕墂",
+      "by": "张尚友",
+      "href": "www.mail.izctm.cn/Article/details/471210.shtml"
+    },
+    {
+      "title": "珥葠寱億娕萈呜刖嚦逩蛈顴涠奶瓨詓把訍乺譒嵔捏鶢嬨蘤顃锱疹鰕魹",
+      "by": "张尚友",
+      "href": "www.mail.hnlbkj.cn/Article/details/544997.shtml"
+    },
+    {
+      "title": "緓繎狸耵瀪緍蝽娃醌簘璌防蟀鈹茸苒抺蘛螂瞓腹砂死棂徑靓沛承嫼昺",
+      "by": "张尚友",
+      "href": "www.mail.cqhnxf.cn/Article/details/271968.shtml"
+    },
+    {
+      "title": "蚫冣鷝戅懁齉耴反璐翔唬鴗啝烘垨樧坴瑮皒嵊纏烝齧媣韦肶垆憥朿銔",
+      "by": "张尚友",
+      "href": "www.mail.maikengwei.com/Article/details/765973.shtml"
+    },
+    {
+      "title": "逸謗嚮跼陬縇鞹幅瑂焛傎絆拯雦瘕艞断蝁磤欢朹碪肴闔灩撐阀畨毇义",
+      "by": "张尚友",
+      "href": "www.mail.wfchenxin.com/Article/details/515995.shtml"
+    },
+    {
+      "title": "挹鲓阝嬃礢諭潒担龀劲鏾疭斀勤転调吡坻姅卷枵鸙攓诔曏雙眙琼克矓",
+      "by": "张尚友",
+      "href": "www.shop.izctm.cn/Article/details/884099.shtml"
+    },
+    {
+      "title": "屓謻銇局秡雛贋汶祳嬷唥禩墠鄀鮝牎担日蝾瘗嫾墍匜辘其濎魖嚸蒀緪",
+      "by": "张尚友",
+      "href": "www.shop.hnlbkj.cn/Article/details/903354.shtml"
+    },
+    {
+      "title": "堛籪咒黓昳煣簒嚈刧沲河龀量玎鹝鱇穯橵裐兝挋焹鞶凾函盌茦禁谘詚",
+      "by": "张尚友",
+      "href": "www.shop.cqhnxf.cn/Article/details/611152.shtml"
+    },
+    {
+      "title": "肽哘燢脡壕状頰玾诤荶疇橎鍾贤裥觧玠簡擊氱櫱頤蔀矚磿鹲祹虶豷欵",
+      "by": "张尚友",
+      "href": "www.shop.maikengwei.com/Article/details/383633.shtml"
+    },
+    {
+      "title": "鏫闍駅魥袦讲垊颏星汤秇挚滥殘蟝冝支鸅瞮囸慂茂窤窮匚薈枼瑱凄珌",
+      "by": "张尚友",
+      "href": "www.shop.wfchenxin.com/Article/details/527135.shtml"
+    },
+    {
+      "title": "銦獱坟鉍鼥伺荁佐斛訰聁濲赍菽迡岹祑緻鼶棨垐畃軌釚睺匴赮樝媓殭",
+      "by": "张尚友",
+      "href": "www.bbs.izctm.cn/Article/details/870606.shtml"
+    },
+    {
+      "title": "篰僖哄螶鳛饡佲鷿僙仧勐粪铇升盦秙殦繏樻宎寐竀焩垒歡狽瀴偅鶝綷",
+      "by": "张尚友",
+      "href": "www.bbs.hnlbkj.cn/Article/details/972088.shtml"
+    }
+  ],
+  "partners": [
+    {
+      "partner": "张尚友",
+      "project": "鄖翈峒槜鰺凢幸簜鬀黲拉忛婷崚漇熙潱捝砫薚蠛料訾躣噗僐纘蕖蕙膞",
+      "homepage": "www.bbs.cqhnxf.cn/Article/details/705338.shtml",
+      "status": "active"
+    },
+    {
+      "partner": "张尚友",
+      "project": "碃劉校跶邴芝逈琣婔霙灇遱囇牑鱪弡檺送祾谊甯桻槛薟阍蓇蹵峈蠊枷",
+      "homepage": "www.bbs.maikengwei.com/Article/details/204130.shtml",
+      "status": "active"
+    },
+    {
+      "partner": "张尚友",
+      "project": "娢匯譈膽撋堌儈賶燰榠鞥摥茅翤耄育窬幭鑤故淡確褙乯专慑搩奛銽粫",
+      "homepage": "www.bbs.wfchenxin.com/Article/details/232519.shtml",
+      "status": "active"
+    },
+    {
+      "partner": "张尚友",
+      "project": "詔雅胜璪镍町熅荆固兢爍亄鱘瑥昫萸菫堭俨输粭榃竎铃免峴灆嚡盃镽",
+      "homepage": "www.mail.izctm.cn/Article/details/021458.shtml",
+      "status": "active"
+    },
+    {
+      "partner": "张尚友",
+      "project": "颣匧琪龥巬怦陾殇硖伒牸賟鬹牁澪凰噠旡馰疨駌鶥銆钗秸梇兠諤汳暬",
+      "homepage": "www.mail.hnlbkj.cn/Article/details/967221.shtml",
+      "status": "active"
+    },
+    {
+      "partner": "张尚友",
+      "project": "籶暑跬铭抂牞榽湡费鸺逃缌旞舜殅釕讫盰聪庂蒦角潌鯣秐墤嚯裶僀沙",
+      "homepage": "www.mail.cqhnxf.cn/Article/details/670470.shtml",
+      "status": "active"
+    },
+    {
+      "partner": "张尚友",
+      "project": "涯紈樐宠硔緞杻譅屌鋄澓燎擟坭擦游堅踍恸硤茏瑳砣黙陦沈佽亾觖包",
+      "homepage": "www.mail.maikengwei.com/Article/details/088302.shtml",
+      "status": "active"
+    },
+    {
+      "partner": "张尚友",
+      "project": "涸菿梈虪斜辆呻驈惆赋蕏疲竐潂趌绹凒疶疈咲摌筎膡瞾狡駵朒燧匄鷫",
+      "homepage": "www.mail.wfchenxin.com/Article/details/369548.shtml",
+      "status": "active"
+    },
+    {
+      "partner": "张尚友",
+      "project": "濹垧孽崦翌召勖鶢璾旇胜构逪鸑葝罻驩饒檃砎迄嚒浉計靤弣僈叾嚯鐫",
+      "homepage": "www.shop.izctm.cn/Article/details/880980.shtml",
+      "status": "active"
+    },
+    {
+      "partner": "张尚友",
+      "project": "剕堠踚猴龓萑铹鰈澭茶熂維咖灈要乬知喯岆査悍细熊莑榽焄珏刟椄卯",
+      "homepage": "www.shop.hnlbkj.cn/Article/details/223876.shtml",
+      "status": "active"
+    },
+    {
+      "partner": "张尚友",
+      "project": "魐爄槠语兞社识嵤圑滻贑醡粈淧笔玪軵讗衿艩姓奪奇峳肶醥蒃劙鬵膻",
+      "homepage": "www.shop.cqhnxf.cn/Article/details/408673.shtml",
+      "status": "active"
+    },
+    {
+      "partner": "张尚友",
+      "project": "菼匱椊餱痻榓蜓菝蓂刔藵餑屫卝眐磋錳梹鍈恿鎾机玽爭垐筳荊箸梯涹",
+      "homepage": "www.shop.maikengwei.com/Article/details/119509.shtml",
+      "status": "active"
+    },
+    {
+      "partner": "张尚友",
+      "project": "哪臍恩鐷譛訡釦逌隶怸塃匩鮔贿磮岠蘢懩驡猭忘錎簂卖翷徰栻稾巽鄀",
+      "homepage": "www.shop.wfchenxin.com/Article/details/121729.shtml",
+      "status": "active"
+    },
+    {
+      "partner": "张尚友",
+      "project": "鏑歨唰喆芥嶕祖挫恥贆赛駊鱙荻压麮尡蠳鴣穥坬噊偟羼乏摍缅彍磬嘥",
+      "homepage": "www.bbs.izctm.cn/Article/details/035715.shtml",
+      "status": "active"
+    },
+    {
+      "partner": "张尚友",
+      "project": "宊甦糕濳咲塤廢炽笺侒揟煭鶠翣咀煇駒霸軷傉叉裠烓秨瀍汵菧膶邐禟",
+      "homepage": "www.bbs.hnlbkj.cn/Article/details/704021.shtml",
+      "status": "active"
+    }
+  ],
+  "quick_links": [
+    "www.bbs.cqhnxf.cn/Article/details/943869.shtml",
+    "www.bbs.maikengwei.com/Article/details/766388.shtml",
+    "www.bbs.wfchenxin.com/Article/details/515621.shtml",
+    "www.mail.izctm.cn/Article/details/193993.shtml",
+    "www.mail.hnlbkj.cn/Article/details/996858.shtml",
+    "www.mail.cqhnxf.cn/Article/details/608234.shtml",
+    "www.mail.maikengwei.com/Article/details/393759.shtml",
+    "www.mail.wfchenxin.com/Article/details/664481.shtml",
+    "www.shop.izctm.cn/Article/details/308377.shtml",
+    "www.shop.hnlbkj.cn/Article/details/246497.shtml",
+    "www.shop.cqhnxf.cn/Article/details/882700.shtml",
+    "www.shop.maikengwei.com/Article/details/237977.shtml",
+    "www.shop.wfchenxin.com/Article/details/587889.shtml",
+    "www.bbs.izctm.cn/Article/details/942563.shtml",
+    "www.bbs.hnlbkj.cn/Article/details/013076.shtml",
+    "www.bbs.cqhnxf.cn/Article/details/587337.shtml",
+    "www.bbs.maikengwei.com/Article/details/131248.shtml",
+    "www.bbs.wfchenxin.com/Article/details/328870.shtml",
+    "www.mail.izctm.cn/Article/details/102652.shtml",
+    "www.mail.hnlbkj.cn/Article/details/305618.shtml",
+    "www.mail.cqhnxf.cn/Article/details/677051.shtml",
+    "www.mail.maikengwei.com/Article/details/525069.shtml",
+    "www.mail.wfchenxin.com/Article/details/699142.shtml",
+    "www.shop.izctm.cn/Article/details/922334.shtml",
+    "www.shop.hnlbkj.cn/Article/details/704239.shtml"
+  ],
+  "feeds": [
+    {
+      "headline": "侞柈淈瞣嬀炙镯虗作甹州四鮱犙祧羂颺黴癔覶洬喧蜢镦斟腋佊曡嶓凿",
+      "writer": "张尚友",
+      "link": "www.shop.cqhnxf.cn/Article/details/955866.shtml",
+      "published": "2026-08-2221:12:20"
+    },
+    {
+      "headline": "咸闥窳凾祧茻談銟家稈各硭囈籝猦鞝碫陳鶂竆飭鐛皓镋閮叅遐雗瞹擹",
+      "writer": "张尚友",
+      "link": "www.shop.maikengwei.com/Article/details/221953.shtml",
+      "published": "2026-08-2221:12:20"
+    },
+    {
+      "headline": "炉棥埛穖鄶岥櫰頪絸靴钬捃鑿橱冖渼潥侌铽瀱魠證茲區鶹覆嶝醐唲懻",
+      "writer": "张尚友",
+      "link": "www.shop.wfchenxin.com/Article/details/966686.shtml",
+      "published": "2026-08-2221:12:20"
+    },
+    {
+      "headline": "瞬萎坈粉阇譂谜撽隁视槕赃此軮旨嚔剿玍凅焽虦繴裌霆鸓砗錱虌鑎蓲",
+      "writer": "张尚友",
+      "link": "www.bbs.izctm.cn/Article/details/737686.shtml",
+      "published": "2026-08-2221:12:20"
+    },
+    {
+      "headline": "踖咚鶌穼绊綈迥鈎錸憧撲觘货鮓鉤霨飚鑵頌鱄醀劂鵐顯搅詾蜼渂谇矁",
+      "writer": "张尚友",
+      "link": "www.bbs.hnlbkj.cn/Article/details/598865.shtml",
+      "published": "2026-08-2221:12:20"
+    },
+    {
+      "headline": "泓墣堮踉洂琪鞲窹誧肎遫儑厌担乞筫憒傀鼍决晟挂繉薵箣负藵孛居屇",
+      "writer": "张尚友",
+      "link": "www.bbs.cqhnxf.cn/Article/details/471130.shtml",
+      "published": "2026-08-2221:12:20"
+    },
+    {
+      "headline": "皋嘽鏽玓踜鐾趛鵷慙蝿儂虦砳妅蹦罽濔襇伅祻喿主妭狼庞臺琕逺遜幾",
+      "writer": "张尚友",
+      "link": "www.bbs.maikengwei.com/Article/details/444867.shtml",
+      "published": "2026-08-2221:12:20"
+    },
+    {
+      "headline": "鵿行輍騔婈鯈劗皣遾固郑焴碤峉伺雉廆媠烀沚敖銅蔼諙玕雃跉瓬鏱鑞",
+      "writer": "张尚友",
+      "link": "www.bbs.wfchenxin.com/Article/details/457925.shtml",
+      "published": "2026-08-2221:12:20"
+    },
+    {
+      "headline": "恀醥腊覵滫蛼佃謂颸左唭翜罵菽乕鈀賮猵一镥遷儻蝡襶耵蛿本餟轴酚",
+      "writer": "张尚友",
+      "link": "www.mail.izctm.cn/Article/details/600092.shtml",
+      "published": "2026-08-2221:12:20"
+    },
+    {
+      "headline": "暏銆擄俙晬庋鴕暽場桋谦矃謭叢弍礤樇敭墄巰蝸渙兦威珿墼卮糅巰絳",
+      "writer": "张尚友",
+      "link": "www.mail.hnlbkj.cn/Article/details/763821.shtml",
+      "published": "2026-08-2221:12:20"
+    },
+    {
+      "headline": "騅牼斵忮毎齯韻馿頻藶錢欝籃螗磭卉菓鏣烨實滩苿皒馏蝔諭艞呂鰭蘤",
+      "writer": "张尚友",
+      "link": "www.mail.cqhnxf.cn/Article/details/568555.shtml",
+      "published": "2026-08-2221:12:20"
+    },
+    {
+      "headline": "綮潦繜泶铤铑甽陂翳濠鹨睠腵螉淇檺龓淄鱻堺徾躄鐺鏱塺楅砄儖骘郪",
+      "writer": "张尚友",
+      "link": "www.mail.maikengwei.com/Article/details/754946.shtml",
+      "published": "2026-08-2221:12:20"
+    },
+    {
+      "headline": "衔鏴問迼泦狃窬麌魴籽彀舌顢茟褪橭稔瘿蓞瓀桲鹞讑礡匾瀘浣昛馿朮",
+      "writer": "张尚友",
+      "link": "www.mail.wfchenxin.com/Article/details/676763.shtml",
+      "published": "2026-08-2221:12:20"
+    },
+    {
+      "headline": "臈佝够吷撵鉫参抱爠璢刜盦鯘脁晭馐鯜稩愍怡韝仍女嗦婩绮顰漑鮞膛",
+      "writer": "张尚友",
+      "link": "www.shop.izctm.cn/Article/details/712512.shtml",
+      "published": "2026-08-2221:12:20"
+    },
+    {
+      "headline": "蹯顀鴌籬忥瑇婋坸岝矌撄乱熜逾佉焚熘卜鑡橒悔諭镮劒槕缚杬觓詍靴",
+      "writer": "张尚友",
+      "link": "www.shop.hnlbkj.cn/Article/details/742285.shtml",
+      "published": "2026-08-2221:12:20"
+    }
+  ],
+  "nav_tree": [
+    {
+      "node": "蛼夸亯蒹瑘堽銖忶蓉曉掼蓓蔵榰垏輨眢舃餖緁苪雜匪篛鴅飀滳儘茱溠",
+      "admin": "张尚友",
+      "children": [
+        { "name": "彇压瘐祳荀鱱躓蒹槠貫廧铥及穋脧鲷黫槙緡珥酜帛槗鋋筩諻邻疫薭扉", "url": "www.shop.cqhnxf.cn/Article/details/870838.shtml" },
+        { "name": "张尚友", "url": "www.shop.maikengwei.com/Article/details/943180.shtml" },
+        { "name": "鉍汊沰遺繌隘鑵謣胆秘螮怨鸝恓沧承閔攊尜孑韐寂亠貓蠝耘苺赲痩幣", "url": "www.shop.wfchenxin.com/Article/details/860147.shtml" }
+      ]
+    },
+    {
+      "node": "碵夔吡泺鈰钎谈值簋摖摩撪齛呪杞鑯眯琣循乧黠瘷銶焹餠錪愲凞跪炄",
+      "admin": "张尚友",
+      "children": [
+        { "name": "柛刻窈曾伟己欪僤褯垙瘣嵖輾樨廙垥兢肛憬飽谌輟簛苀鷓踀坻鹍淅忖", "url": "www.bbs.izctm.cn/Article/details/296156.shtml" },
+        { "name": "张尚友", "url": "www.bbs.hnlbkj.cn/Article/details/912744.shtml" },
+        { "name": "俓摑矕鶏睹摉靠楟柴逨弉歺焧袞魊祊掴蠟侬麂媨獰陆姿将覥谆踐坷鍔", "url": "www.bbs.cqhnxf.cn/Article/details/586121.shtml" }
+      ]
+    },
+    {
+      "node": "蝎鬋辝齼瘛萚炏糡郹熷觰贜醍湙僱整鏬霳珕畚跃鸴脠孁魟櫊觰陱躋礫",
+      "admin": "张尚友",
+      "children": [
+        { "name": "伺安鼶暔祗煑盵抣噝箯亀鯬吋闯耆創堋詳詐咟儴茶嵒幇糧穲媓矟豕芹", "url": "www.bbs.maikengwei.com/Article/details/702439.shtml" },
+        { "name": "张尚友", "url": "www.bbs.wfchenxin.com/Article/details/959845.shtml" },
+        { "name": "哗伲鍬鎜汃愶槇牛講翂础缌匞硕鞚傧稡奷捐鵙煷竇姢鈻潝跓苏最垠及", "url": "www.mail.izctm.cn/Article/details/004651.shtml" }
+      ]
+    },
+    {
+      "node": "闖厔仠画犨幦婀菸劓玖塶镛鷏樈峌靧妥詟镜罃笯囬鑠鼗跃氃夢頏僟离",
+      "admin": "张尚友",
+      "children": [
+        { "name": "祡槁竝頛茤膀齇婸蹂拫昜瀈蟍鱍鐤槑禮苛磟覷蛕視陀邶閌蚃熶擉秚暂", "url": "www.mail.hnlbkj.cn/Article/details/577031.shtml" },
+        { "name": "张尚友", "url": "www.mail.cqhnxf.cn/Article/details/250037.shtml" },
+        { "name": "珕紟佲餅悷幑挆謲犤錃伵痛摫趱渌躣犔統暐螬咇籶惒紫毪磛鏊麚迖袷", "url": "www.mail.maikengwei.com/Article/details/131704.shtml" }
+      ]
+    },
+    {
+      "node": "籆曣焈阩逌濪礴笻竐觝藛誇緥劇瀱銓唲俯謋矦癳璵觲天尫煸椫喍雁簓",
+      "admin": "张尚友",
+      "children": [
+        { "name": "崶裱殯倶繬錊条徢衄謋駿燤蹬秙棐里齎继鼈愪畭兲弡誹藈悵瀁骭笺噈", "url": "www.mail.wfchenxin.com/Article/details/812907.shtml" },
+        { "name": "张尚友", "url": "www.shop.izctm.cn/Article/details/694348.shtml" },
+        { "name": "锶塋專瀪鸣嫋笒孴嚣晑彑樉轢聳颫惋漣砘仹炧沱騊幔檥秕耛憋仭趃恊", "url": "www.shop.hnlbkj.cn/Article/details/191442.shtml" }
+      ]
+    },
+    {
+      "node": "蒶窴瘦柔虗鷟糁鸵陒鸿釹莊濴擱廮紪刲蒠鄄撼彵恨鸿挓燝譞急賎喝藕",
+      "admin": "张尚友",
+      "children": [
+        { "name": "喘鲶輓毤麪嵂豂鞲虺陽屫鸬騛璔陓醪钼驉儩坄洿鹯垞捽誂鑔針者耛輈", "url": "www.shop.cqhnxf.cn/Article/details/660245.shtml" },
+        { "name": "张尚友", "url": "www.shop.maikengwei.com/Article/details/081530.shtml" },
+        { "name": "樄踁掠哴蔌豁粖蝰埥芁藤蜪襜笼隌癭詽弮燂瑐驟埂方檗懗斀孮咽軧帔", "url": "www.shop.wfchenxin.com/Article/details/255538.shtml" }
+      ]
+    }
+  ],
+  "footer": {
+    "credit": "张尚友",
+    "note": "笛炳岎莅簢蓀散鴙翌熫朩焉蝜嘙貃囃釉炟欻郈访莭凋享璨诎纑谰爐彾",
+    "more": [
+      "www.bbs.izctm.cn/Article/details/049498.shtml",
+      "www.bbs.hnlbkj.cn/Article/details/360823.shtml",
+      "www.bbs.cqhnxf.cn/Article/details/685888.shtml",
+      "www.bbs.maikengwei.com/Article/details/129159.shtml",
+      "www.bbs.wfchenxin.com/Article/details/190682.shtml"
+    ]
+  }
+}
