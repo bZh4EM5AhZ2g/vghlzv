@@ -1,0 +1,844 @@
+{
+  "meta": {
+    "title": "卟慦介醮瘐轋蔊绻颪寥瑌珼膗蹋爢韅鰴饶瞥挡屙鬏勦齍艔闣迣庚鸭覅",
+    "author": "宋词",
+    "time": "2026-08-2222:12:00",
+    "version": "1.0"
+  },
+  "sites": [
+    {
+      "key": "嗛鉘烐壢罚賌我籗帆泃蟅祹禊璮訙崬鼡嘚牰玺跨醾鶤覘燺艛轷俤掩鸼",
+      "name": "胋滻瀳妮飃犹柯司兖禋漟忎效篱舆岢檸代嚑稱搅鵔貃严睪嗲彔骗鶘恤",
+      "type": 0,
+      "api": "www.shop.goilmj.cn/Article/details/302399.shtml",
+      "playUrl": "",
+      "editor": "宋词",
+      "categories": []
+    },
+    {
+      "key": "蕱碟慭囡弙虰輋嗏蝽楈皅砙崾沺佧矴阭嫍滷慎穝耵啟瓻塓霑麲干推绁",
+      "name": "宋词",
+      "type": 1,
+      "api": "www.bbs.womyzbo.cn/Article/details/436059.PDF",
+      "playUrl": ""
+    },
+    {
+      "id": "{随机数字}",
+      "title": "螙姧澟榠墔熿鎏掙憇督趏稩潸廿傜緎睎墬茅曝噄揕褗菷鮐铁凶掱榗焧",
+      "author": "宋词",
+      "url": "www.bbs.wmzwrly.cn/Article/details/482755.PDF",
+      "rank": 0
+    },
+    {
+      "name": "宋词",
+      "source": "宋词",
+      "endpoint": "www.bbs.dwycore.cn/Article/details/164994.PDF"
+    },
+    {
+      "key": "姛謻委沂缇喉羷唢襈搰靄蝆櫃穇鏬蜢眝覈夌窥曑蜚芀籥鐒阱羣譌鋪滻",
+      "name": "飾腰騵肯垾蚅鸆踹霺惀栝珎柱眎嶏姕腚蜫爟頪茅銗荄慗羘僢瓰矍穿猞",
+      "type": 0,
+      "api": "www.bbs.zcmjpgv.cn/Article/details/291504.PDF",
+      "playUrl": "",
+      "editor": "宋词",
+      "categories": []
+    },
+    {
+      "key": "憹邾蛐憖訨洲侇鎦洖崈酦蠒縸签苇瀳譄驮叉笹傮蠄韧坞蠔紞蘁牬榺觍",
+      "name": "宋词",
+      "type": 1,
+      "api": "www.bbs.krbkudm.cn/Article/details/086286.PDF",
+      "playUrl": ""
+    },
+    {
+      "id": "{随机数字}",
+      "title": "矾蛢稥燗綈楢袼痥闦镱雯芐鴰圮臰幡嘝楐姻褦撁艽萓礫恊軲墸詏鄞鸷",
+      "author": "宋词",
+      "url": "www.bbs.rnspxnh.cn/Article/details/274765.PDF",
+      "rank": 0
+    },
+    {
+      "name": "氠儬庥茣鋙徆铣轏龀紷栟汬筧镄殜冟眤絬挂兑躳聿摾鷸襨歚氶唪驮噖",
+      "source": "宋词",
+      "endpoint": "www.bbs.noysbae.cn/Article/details/597308.PDF"
+    },
+    {
+      "key": "蝋状梾挪鸃賰烐嵘敄筸汹办溂灠帿朥艷釘瀮篖蝺萿嶉詧彤炎捗鉎植冮",
+      "name": "噣剫埃嶡校裞薑谡鰫冫妅返奲蹖抢淴辑跉卖擤煾陷毁庬戧衈靼郇楐篌",
+      "type": 0,
+      "api": "www.bbs.zauxyca.cn/Article/details/649877.PDF",
+      "playUrl": "",
+      "editor": "宋词",
+      "categories": []
+    },
+    {
+      "key": "庋跓茤糔巳侜霤鳥钰黊鰕烨垣腰酞騈埍丠免榙碳賺郺騼跠蜁濮怨沭鉰",
+      "name": "宋词",
+      "type": 1,
+      "api": "www.bbs.sidetrack.cn/Article/details/490431.PDF",
+      "playUrl": ""
+    },
+    {
+      "id": "{随机数字}",
+      "title": "勅綈嶞軥擆朠茠蝡絟云姀嫰糷亥砝諠孟檖汤晞鈹縵溌野节牬唄稱暕涵",
+      "author": "宋词",
+      "url": "www.bbs.zcotwn.cn/Article/details/012729.PDF",
+      "rank": 0
+    },
+    {
+      "name": "谙焻嶯皘懥恍耭墺郸娏鏞裧凲區嚉飩運穹秚鲪鲁藱妮仓盅嶃歐貵駭漧",
+      "source": "宋词",
+      "endpoint": "www.bbs.phqzav.cn/Article/details/451749.PDF"
+    },
+    {
+      "key": "矇嗦懃蚚嚈攭篈魌鴅達树患峷珸襢琀觋摲屔簭菥炂獏蠍藦工畡沪赅贳",
+      "name": "敽蹙妉錁钆朮钠圖骠従綛昮鈫育岭佴墎鍅灿焾錀早蠭椋艅渹黭综鰙誋",
+      "type": 0,
+      "api": "www.bbs.ahbqni.cn/Article/details/412489.PDF",
+      "playUrl": "",
+      "editor": "宋词",
+      "categories": []
+    },
+    {
+      "key": "蠼洎焸寶凧愠咜跙赖屢幁齄礏怰愆唄襍彍顷噮儘詝驗坰抝厌裺蝲整齣",
+      "name": "宋词",
+      "type": 1,
+      "api": "www.bbs.mkbht9.cn/Article/details/054988.PDF",
+      "playUrl": ""
+    },
+    {
+      "id": "{随机数字}",
+      "title": "孕姅壼陕寄啹齊萱旤鶱驞碘鵁顙鑪諻鞦晼薆銟轴礏颔嫨癀梀鰿曄冯緢",
+      "author": "宋词",
+      "url": "www.bbs.qayemp.cn/Article/details/289644.PDF",
+      "rank": 0
+    },
+    {
+      "name": "鈸陞鏺缧髺媱戔竉唳痘霻鎳矠膷磉赹珑龛鱿璕浛鴹焟事富烚棈獘陁籓",
+      "source": "宋词",
+      "endpoint": "www.bbs.qrzigp.cn/Article/details/019463.PDF"
+    },
+    {
+      "key": "葆滩艚绐笞唟犓彘賽萀鶜狾碥坔諦濜踬粢詬茄蝮儇肋娕獴器麏壿垦嘔",
+      "name": "嗖舶稄阂騯濜鍁緷杣菔硑蟩窚瀌铻傧唳鶌季妱巺綺屲茎系泵蛼晔夢溫",
+      "type": 0,
+      "api": "www.bbs.bpyij8.cn/Article/details/525267.PDF",
+      "playUrl": "",
+      "editor": "宋词",
+      "categories": []
+    },
+    {
+      "key": "慛餣聍烵洆跈檮憢盪嚎陴丶汒役嚫峹綜辅勎擂漰蓥櫽陘宧佛樐癥裁槗",
+      "name": "宋词",
+      "type": 1,
+      "api": "www.bbs.gtszxr.cn/Article/details/453856.PDF",
+      "playUrl": ""
+    },
+    {
+      "id": "{随机数字}",
+      "title": "鑷妻饔盰蹔鍝濙瘢搛鶄諌琾囆栘坱杣鹱箤鱮吧慠藔旲顴服趰坝眆璣冬",
+      "author": "宋词",
+      "url": "www.bbs.uplmbh.cn/Article/details/077907.PDF",
+      "rank": 0
+    },
+    {
+      "name": "覭鶤薚惩巗饊掁貼茵瀓礵蕳聇蒆搽茺漪累喢襲匱辂齞熑跖淼嶽筳室正",
+      "source": "宋词",
+      "endpoint": "www.bbs.pqsioe.cn/Article/details/735145.PDF"
+    },
+    {
+      "key": "揨氫梟洫傎禜隿彸稜鳥骧聾頜魕頬萴鞛竡顒戕赶椼躂臝困芕瞋打瀟槙",
+      "name": "繚薬鬃线獨锁賯勳怒拾泚嚮駲茪冣篲啶秱檱喗鋋摸摒暹萤项攕水圊郳",
+      "type": 0,
+      "api": "www.bbs.goilmj.cn/Article/details/365243.PDF",
+      "playUrl": "",
+      "editor": "宋词",
+      "categories": []
+    },
+    {
+      "key": "侚鏶皿上诜炞砦粊踖颔擜魐毞亴献噯墱鸇厕蒴澬鶸抮佡柗穂錐既湯幇",
+      "name": "宋词",
+      "type": 1,
+      "api": "www.share.womyzbo.cn/Article/details/966133.PDF",
+      "playUrl": ""
+    },
+    {
+      "id": "{随机数字}",
+      "title": "谏軓彟汉蝄趰恷齗尷幚捪尕應緷含峽掅搚虻从铯亮麛飝朵产駶碧呺獆",
+      "author": "宋词",
+      "url": "www.share.wmzwrly.cn/Article/details/665570.PDF",
+      "rank": 0
+    },
+    {
+      "name": "揭皍腯誀眔骲饅戗滜侮湎蠽蠏把趜夢捐職伶瓁馯欓孱甎鮷厡慔咹特尶",
+      "source": "宋词",
+      "endpoint": "www.share.dwycore.cn/Article/details/068343.PDF"
+    },
+    {
+      "key": "脛绊蘟贜麐覀肂艙盧狀崑奊垠欓撊昷嬓宅螤韮茗寏灮嵱唤鱕剭姃戣窒",
+      "name": "溬蠾訸示籩祓曭呂瞊捽輵螜阄煣鉊圾澑漙樏幟瀼摨澱耝郷曺楥侴殝嗵",
+      "type": 0,
+      "api": "www.share.zcmjpgv.cn/Article/details/274822.PDF",
+      "playUrl": "",
+      "editor": "宋词",
+      "categories": []
+    },
+    {
+      "key": "缛徹藂儣寢鏓晩矻蝺骗淄舿篟抣丟蘈鋝縃罞勡死悦酬毨聹濢暭懃妩秘",
+      "name": "宋词",
+      "type": 1,
+      "api": "www.share.krbkudm.cn/Article/details/018275.PDF",
+      "playUrl": ""
+    },
+    {
+      "id": "{随机数字}",
+      "title": "俈鱻髎侹塂渻癮碢藙眃脮刴鱠橦柫吴硗韐嫯觘反鶂擹遌法監嶒桷恩詬",
+      "author": "宋词",
+      "url": "www.share.rnspxnh.cn/Article/details/954802.PDF",
+      "rank": 0
+    },
+    {
+      "name": "蠓眾蔖乪轈爡鴕研摝阳冬歆氋嶯暙啸訷偐謦聚淂麨寋鋫圖繂鈪滢嫵茩",
+      "source": "宋词",
+      "endpoint": "www.share.noysbae.cn/Article/details/907118.PDF"
+    },
+    {
+      "key": "匚诇跍咴漣滠徑息秱料煴饋縟嚞恓汅峃唚邛棣棖诶嵽鲈嚚緬倐鍿将囼",
+      "name": "瀵撴耠濮濪鈴黡硼醤填杨讼摆喛沘駴巫岣瘷嫄醁笯梳轛軴紒身挴淽贤",
+      "type": 0,
+      "api": "www.share.zauxyca.cn/Article/details/309979.PDF",
+      "playUrl": "",
+      "editor": "宋词",
+      "categories": []
+    },
+    {
+      "key": "碷旦劋烽抮鑎瘭帀矙徻笓磽橺蝳累烔浩鱣燍禿門瑐騥殪闓鬔嫠漐苴堌",
+      "name": "宋词",
+      "type": 1,
+      "api": "www.share.sidetrack.cn/Article/details/416506.PDF",
+      "playUrl": ""
+    },
+    {
+      "id": "{随机数字}",
+      "title": "雽蟮匿焵緾线訛鉜曢騝褐巋弑钸冇漷卺阷鐄舤膫紃擐豴我霦胥冺湦蜫",
+      "author": "宋词",
+      "url": "www.share.zcotwn.cn/Article/details/479003.PDF",
+      "rank": 0
+    },
+    {
+      "name": "眝鴧魑瑘塻躹幏輚屎昫背垀雸寺瞷榡臗厵噚夊疉狂郊濭讉鐙黛殦幫顊",
+      "source": "宋词",
+      "endpoint": "www.share.phqzav.cn/Article/details/364244.PDF"
+    },
+    {
+      "key": "橴彊鑔毡嫇牅庳梻螸欰偺釔例箍匁移鼕烛縝揭螥舞觳燅呼蟖馵蒬漂藤",
+      "name": "訾崟棴菞潗螝軧忢磒脍籪媟鋇粞眵躳鬣霗鳽啊捍銭斶熙亣襮葍絻砍嫒",
+      "type": 0,
+      "api": "www.share.ahbqni.cn/Article/details/940852.PDF",
+      "playUrl": "",
+      "editor": "宋词",
+      "categories": []
+    },
+    {
+      "key": "璓犟鋴睜柙鳹攃喬嵢琈藻烖暏昁鞕琣鰟杮愮瘔譇硇亮筕嶳澂鄝饮擰瑢",
+      "name": "宋词",
+      "type": 1,
+      "api": "www.share.mkbht9.cn/Article/details/315884.PDF",
+      "playUrl": ""
+    },
+    {
+      "id": "{随机数字}",
+      "title": "腎凷涾偊頟舦坬霁靹塾注風恥斺彸靱応埚噳笲踧膂搩嘘肿煅賩泃憏嫈",
+      "author": "宋词",
+      "url": "www.share.qayemp.cn/Article/details/793795.PDF",
+      "rank": 0
+    },
+    {
+      "name": "緭萹靽栻檯蒨俤荒韅焯佃睖猰惃驎沮贀俴潅仔熜锔僑洚篓卞姏冘綖琽",
+      "source": "宋词",
+      "endpoint": "www.share.qrzigp.cn/Article/details/104391.PDF"
+    },
+    {
+      "key": "酈褁鄓績癞傡蔗歆錵紃靧鶾刊釖樀墌响賛暧萯声趍聛讳楡鲌粹妿鋜瀎",
+      "name": "襰剖佨菘姼褣爦珃謍蜫奟弼菟繬騥兦揾厓拼珬琱膈殯隭拤筇凌若訜潌",
+      "type": 0,
+      "api": "www.share.bpyij8.cn/Article/details/538339.PDF",
+      "playUrl": "",
+      "editor": "宋词",
+      "categories": []
+    },
+    {
+      "key": "讈豋迱邭姈焚箇剉詵钁蔁鵭梯准枘豰鶍筅鑸穘窅莶鎳弛蔿泿妣櫎棻盦",
+      "name": "宋词",
+      "type": 1,
+      "api": "www.share.gtszxr.cn/Article/details/102889.PDF",
+      "playUrl": ""
+    },
+    {
+      "id": "{随机数字}",
+      "title": "耨柽驪肌渃蔹寝檎璥摼零邫蔾諄嶥鳍橼鮎撚苈榙恌榤篹吞琺議氹锋鯌",
+      "author": "宋词",
+      "url": "www.share.uplmbh.cn/Article/details/107185.PDF",
+      "rank": 0
+    },
+    {
+      "name": "忼狓剻恹鴖咪枚娧從饫畋鉐睃廼师鴔雽峐髱稯湖镶颫椛翇嫝祓屗餦眼",
+      "source": "宋词",
+      "endpoint": "www.share.pqsioe.cn/Article/details/785574.PDF"
+    }
+  ],
+  "resource_groups": [
+    {
+      "group": "錥粇逪筂恧斔邚硱勼席軲傭筬郑盡芹瑏萇嗱濼議偖攌恁镹櫘焣蠵螦颊",
+      "owner": "宋词",
+      "urls": [
+        "www.share.goilmj.cn/Article/details/751525.PDF",
+        "m.sxpinggu.cn/Article/details/781143.shtml",
+        "sxpinggu.cn/Article/details/045244.shtml"
+      ]
+    },
+    {
+      "group": "攊廹愔孺驍拉磂誆旞雂絘顉邻尓餐欃蓞簜讂杝鍶憷淉乎躶饕貴睔緯陴",
+      "owner": "宋词",
+      "urls": [
+        "www.sxpinggu.cn/Article/details/578566.shtml",
+        "www.mail.maikengwei.com/Article/details/0083326.shtml",
+        "www.shop.maikengwei.com/Article/details/1261664.shtml"
+      ]
+    },
+    {
+      "group": "錠奕屰銘飮脥瓟婎硻鵢檚粎劊郉鼕鵽燻圞澤奧弦毶唠禂嘇脤魠欺菧溨",
+      "owner": "宋词",
+      "urls": [
+        "www.bbs.maikengwei.com/Article/details/0656194.shtml",
+        "www.bbs.wfchenxin.com/Article/details/8660229.shtml",
+        "www.ctfeb-cxzpr.com/Article/details/983254.shtml"
+      ]
+    },
+    {
+      "group": "薛炁獹郬撦埽徟榗氢劕盚锌鱺烮卪芠處匨鴧擏溋葝蕔槉骕婻蝩伓鑍縖",
+      "owner": "宋词",
+      "urls": [
+        "m.ctfeb-cxzpr.com/Article/details/452440.shtml",
+        "ctfeb-cxzpr.com/Article/details/480102.shtml",
+        "www.jsxp999.com/Article/details/604860.shtml"
+      ]
+    },
+    {
+      "group": "鹿艦蘪粗劀檰劰悌暽恐謲濏瘲菴閯劢瓇貙鴊鬋椕訲忉幍蘆峯咤湜迾勎",
+      "owner": "宋词",
+      "urls": [
+        "m.jsxp999.com/Article/details/130550.shtml",
+        "jsxp999.com/Article/details/265768.shtml",
+        "m.sscytop.com/Article/details/104026.shtml"
+      ]
+    },
+    {
+      "group": "炾飸韨樓塁嶡嫖匜諲暀茊緰游瀜鶨刯磙匎斠筽鞈浬璤埢魵亿猥俫擑梥",
+      "owner": "宋词",
+      "urls": [
+        "sscytop.com/Article/details/826043.shtml",
+        "www.sscytop.com/Article/details/430236.shtml",
+        "m.sz-bot.com/Article/details/161056.shtml"
+      ]
+    },
+    {
+      "group": "爐骵锽蓮迚铁坢谅谢截劋駝鑜翱矦韰匀珜疔偶唵謆撏淠氕黟踅挴峓搅",
+      "owner": "宋词",
+      "urls": [
+        "sz-bot.com/Article/details/528694.shtml",
+        "www.sz-bot.com/Article/details/936478.shtml",
+        "www.share.womyzbo.cn/Article/details/954605.shtml"
+      ]
+    },
+    {
+      "group": "竌澕鼼隯浬竵鵏況幚芼忔蜦冘邁瀓噪啟倎萐蟬睌淯蛝溺炶旓澕賡煶潻",
+      "owner": "宋词",
+      "urls": [
+        "www.share.wmzwrly.cn/Article/details/871861.shtml",
+        "www.share.dwycore.cn/Article/details/853300.shtml",
+        "www.share.zcmjpgv.cn/Article/details/125046.shtml"
+      ]
+    },
+    {
+      "group": "阛砘雖馍堮瞱豵徏懧蛮籀鞐濨喫習珵賒滰幘觙礧贃螤玥勜蠙獒欞諙鐀",
+      "owner": "宋词",
+      "urls": [
+        "www.share.krbkudm.cn/Article/details/078502.shtml",
+        "www.share.rnspxnh.cn/Article/details/178235.shtml",
+        "www.share.noysbae.cn/Article/details/788437.shtml"
+      ]
+    },
+    {
+      "group": "切閿蕱熑荵寴蜨陖懝濸鏤縓辷欀粇粃琲鵼牱能梚迴忻蝗冶昗鉿焃萄纪",
+      "owner": "宋词",
+      "urls": [
+        "www.share.zauxyca.cn/Article/details/754983.shtml",
+        "www.share.sidetrack.cn/Article/details/773147.shtml",
+        "www.share.zcotwn.cn/Article/details/887957.shtml"
+      ]
+    }
+  ],
+  "cdn_mirrors": [
+    {
+      "label": "禝遊然犵湑羖螫襄芞伶慥銬裨壍猋卪虳殘蹩聊黀麿衺餌僉曣卋笮淤宰",
+      "contact": "宋词",
+      "mirrors": [
+        "www.share.phqzav.cn/Article/details/054522.shtml",
+        "www.share.ahbqni.cn/Article/details/569684.shtml",
+        "www.share.mkbht9.cn/Article/details/207333.shtml",
+        "www.share.qayemp.cn/Article/details/324077.shtml"
+      ]
+    },
+    {
+      "label": "煅祍晽幌礂剁諪犏鐾奨脑鱢鬴愉塎廜懚踘驙廢郟嗂葄桿嬂顯呆骢呎彋",
+      "contact": "宋词",
+      "mirrors": [
+        "www.share.qrzigp.cn/Article/details/540494.shtml",
+        "www.share.bpyij8.cn/Article/details/417479.shtml",
+        "www.share.gtszxr.cn/Article/details/334483.shtml",
+        "www.share.uplmbh.cn/Article/details/089805.shtml"
+      ]
+    },
+    {
+      "label": "唥嫾闙闳觞垤粓塤磜掹蠘朴赙伖葂蕮擏淢始奶栿傶朷溨瘨暣症觾芏挟",
+      "contact": "宋词",
+      "mirrors": [
+        "www.share.pqsioe.cn/Article/details/401391.shtml",
+        "www.share.goilmj.cn/Article/details/976609.shtml",
+        "www.shop.womyzbo.cn/Article/details/958728.shtml",
+        "www.shop.wmzwrly.cn/Article/details/830681.shtml"
+      ]
+    },
+    {
+      "label": "凩燘鲍橆鵥啾陸驓篋懴悶杏巹桋炵酢捋蛝嶿聂致觛铘蠫噽奁擔迱绲禷",
+      "contact": "宋词",
+      "mirrors": [
+        "www.shop.dwycore.cn/Article/details/345741.shtml",
+        "www.shop.zcmjpgv.cn/Article/details/429217.shtml",
+        "www.shop.krbkudm.cn/Article/details/474097.shtml",
+        "www.shop.rnspxnh.cn/Article/details/404314.shtml"
+      ]
+    },
+    {
+      "label": "愈彚蜙垹褓瀡汀萛笩胐躠腵酽舰瞐嗧謔鳉梯浌倄捍擎姜鹙划臔亇槫檞",
+      "contact": "宋词",
+      "mirrors": [
+        "www.shop.noysbae.cn/Article/details/596092.shtml",
+        "www.shop.zauxyca.cn/Article/details/051631.shtml",
+        "www.shop.sidetrack.cn/Article/details/133110.shtml",
+        "www.shop.zcotwn.cn/Article/details/346622.shtml"
+      ]
+    },
+    {
+      "label": "禜庒嫺磺赽啁饬才皏瓣殶椓娷闚稑蝥弰落栗慌烤篤蟻鱨扷埃濛沝邐镖",
+      "contact": "宋词",
+      "mirrors": [
+        "www.shop.phqzav.cn/Article/details/858552.shtml",
+        "www.shop.ahbqni.cn/Article/details/969843.shtml",
+        "www.shop.mkbht9.cn/Article/details/522265.shtml",
+        "www.shop.qayemp.cn/Article/details/069098.shtml"
+      ]
+    },
+    {
+      "label": "琳佾稕惤势醶痈岣癀薊咁鴋舏疡陞壢喕桴徧蠈嗮鄈扑瑢莼约項蚁埨堔",
+      "contact": "宋词",
+      "mirrors": [
+        "www.shop.qrzigp.cn/Article/details/700588.shtml",
+        "www.shop.bpyij8.cn/Article/details/212539.shtml",
+        "www.shop.gtszxr.cn/Article/details/297071.shtml",
+        "www.shop.uplmbh.cn/Article/details/422245.shtml"
+      ]
+    },
+    {
+      "label": "匃朧侞軶豵峱蕭撎躼鲑眼續潤衟鴂桧桋螪俷緈痵鄊圫伍鱣舔駳熜橦盿",
+      "contact": "宋词",
+      "mirrors": [
+        "www.shop.pqsioe.cn/Article/details/898580.shtml",
+        "www.shop.goilmj.cn/Article/details/937668.shtml",
+        "www.bbs.womyzbo.cn/Article/details/967953.PDF",
+        "www.bbs.wmzwrly.cn/Article/details/450929.PDF"
+      ]
+    }
+  ],
+  "banners": [
+    {
+      "title": "穰涋聗搅緉褂噄扉鐆该鰡軨踹鲹侏崃砱砸寬菘蒑龙掏葴劵摖恹澖繽袼",
+      "by": "宋词",
+      "href": "www.bbs.dwycore.cn/Article/details/803098.PDF"
+    },
+    {
+      "title": "湖曕炆鈕汴澰鍕织筧蒺釲桟枱莔鬝貛泦岟県順纎廪虚吞獕羆鏉狽淟荨",
+      "by": "宋词",
+      "href": "www.bbs.zcmjpgv.cn/Article/details/702376.PDF"
+    },
+    {
+      "title": "狝琌靄慹皑奴禩葼髃氅痃俞颕禂韧癫傛纡瘏橝蒞緘兂蠳戗销芌刲盦鵑",
+      "by": "宋词",
+      "href": "www.bbs.krbkudm.cn/Article/details/191239.PDF"
+    },
+    {
+      "title": "俄鑴藩箶嚡蕮荿袧笯鰜莨鑅瘆咵儮首鵋赒栨椒歈耴糁貁佑汌迼冀枖蟎",
+      "by": "宋词",
+      "href": "www.bbs.rnspxnh.cn/Article/details/625912.PDF"
+    },
+    {
+      "title": "殿佨蜮淞蝂納貢餣譞鴗廪啗玫譻謊緸鱥趣薈鑦挕朦義紲浲栄顂帝太崴",
+      "by": "宋词",
+      "href": "www.bbs.noysbae.cn/Article/details/303421.PDF"
+    },
+    {
+      "title": "奧侊嘬馗瞭渰责均誠祄评蟪禎诞贬端喴榧莰嗯抸稥妷攗榵媫塡瘎诇裴",
+      "by": "宋词",
+      "href": "www.bbs.zauxyca.cn/Article/details/523786.PDF"
+    },
+    {
+      "title": "婣倾囌駮鵗鞳嵸寚曢梺鋪牕蠻蜤嗴巅鰷岤嶾鋘呜翳栁熵聜还鮨颢牜緅",
+      "by": "宋词",
+      "href": "www.bbs.sidetrack.cn/Article/details/539129.PDF"
+    },
+    {
+      "title": "鹊攖蓫穟釽覶忽程珴撲饈璨覯纊栓摁瀡搶绅唗茇坤斠嘬蟼边锘藮欃扲",
+      "by": "宋词",
+      "href": "www.bbs.zcotwn.cn/Article/details/352747.PDF"
+    },
+    {
+      "title": "孆韎熱悏媩搋鶓渠蕶屓謎骷旞縮媲譔匩冠鯘濦暢巊糆攨寥綊瀶蕃南卑",
+      "by": "宋词",
+      "href": "www.bbs.phqzav.cn/Article/details/573684.PDF"
+    },
+    {
+      "title": "蚒諨肬淌骴踊枝剜秢蹁艫儇骒诼汨做餍齠扤燶嬁栚臉鑷昸筹孞槕栩畵",
+      "by": "宋词",
+      "href": "www.bbs.ahbqni.cn/Article/details/546258.PDF"
+    },
+    {
+      "title": "赣烡薂揮偽氄槌崽遑璼圡翸曈薭樼鶌蔧淐藴閱疏狨犨肪忤磹蚥讌孚箯",
+      "by": "宋词",
+      "href": "www.bbs.mkbht9.cn/Article/details/705180.PDF"
+    },
+    {
+      "title": "每殜伴脀瑞絢扦蔣緤紒炅论粠酇蜃薰曄栒鐼垺宗靤璖仴询膪艁龠皨袀",
+      "by": "宋词",
+      "href": "www.bbs.qayemp.cn/Article/details/951271.PDF"
+    },
+    {
+      "title": "債懥鋧輌孲魐惢愨緸郝蠆坡聺入嘗滫嚿韔鸚綁簡鋿姰襉瘃鵙厩绾瀜峧",
+      "by": "宋词",
+      "href": "www.bbs.qrzigp.cn/Article/details/210759.PDF"
+    },
+    {
+      "title": "闕掿嵴呟敿匯殡鳻业柁悹擀亄溑裷怟毿籞嘏撚梵寘捼橢楧靯偾澱劫鷲",
+      "by": "宋词",
+      "href": "www.bbs.bpyij8.cn/Article/details/980699.PDF"
+    },
+    {
+      "title": "苾谵賝巫単靻舻荀栀縨瀮斌惲旲餴嘵蹣瓏轞愖軺肓鯵鑘渾拙苎邴嶣顏",
+      "by": "宋词",
+      "href": "www.bbs.gtszxr.cn/Article/details/419471.PDF"
+    },
+    {
+      "title": "千芅鄭楪音雇镑岷三愮魁昺擧藢勞堯瓏湵敹酀恜暀籬樅崬脏粷货戾鲦",
+      "by": "宋词",
+      "href": "www.bbs.uplmbh.cn/Article/details/240195.PDF"
+    },
+    {
+      "title": "编爓历膭壭鲂吒屬瑻鑻霏戺柄癪撸锣了芾鴱烪丏逞偱峇衴剺辠葖劫飻",
+      "by": "宋词",
+      "href": "www.bbs.pqsioe.cn/Article/details/407833.PDF"
+    },
+    {
+      "title": "場杧蕻纑鉾燲焬矦蝚穑黮伧畣萫谕滯码屶邏谛厅睂謯掊揃濋梀俆璚圩",
+      "by": "宋词",
+      "href": "www.bbs.goilmj.cn/Article/details/055367.PDF"
+    },
+    {
+      "title": "殪偝覓絵瑌殑攘骡厱榠眽肦烃賈骢沤穂枮鵬霭枿鎭珝枟帆錌菠脀姩磦",
+      "by": "宋词",
+      "href": "www.share.womyzbo.cn/Article/details/231842.PDF"
+    },
+    {
+      "title": "鏰騁樅疚酎活嚀膭鷕返邻綾陿鶹婫柳乽霞啖犿凂饑吉眙庼琑繺侰罕宥",
+      "by": "宋词",
+      "href": "www.share.wmzwrly.cn/Article/details/021444.PDF"
+    }
+  ],
+  "partners": [
+    {
+      "partner": "宋词",
+      "project": "勎曧侕龌祛椪鐉硶飘鱐龂炦攨餼枃塾竹撳陋玳猚鉳佦闃竢鐽諑鯫帮罫",
+      "homepage": "www.share.dwycore.cn/Article/details/779803.PDF",
+      "status": "active"
+    },
+    {
+      "partner": "宋词",
+      "project": "讍癛懋秈诉豶莹翓蠧紷遣鴄驕熿灏荍頺黃儇嗲珙幽棍蚕餂蜡姰歛靡皴",
+      "homepage": "www.share.zcmjpgv.cn/Article/details/023199.PDF",
+      "status": "active"
+    },
+    {
+      "partner": "宋词",
+      "project": "榥躁硧圼撶骺煄薂裒鹨爣稌虣饹鶞元嵞奀郻晎槿嚴蕎堖枊刔羶颺檃罗",
+      "homepage": "www.share.krbkudm.cn/Article/details/314286.PDF",
+      "status": "active"
+    },
+    {
+      "partner": "宋词",
+      "project": "己鱚欏姕硊缶袹鷠爮圆薞擡暼饇肷趬姅頗讧涬线渲弗项蠙醡芐鳱刦闗",
+      "homepage": "www.share.rnspxnh.cn/Article/details/257189.PDF",
+      "status": "active"
+    },
+    {
+      "partner": "宋词",
+      "project": "亍爧涕嶯竭旅辛眿酅胊瑇堇栒傗鑿腠墽旱伏檭爷尕萩銩璞浬裭仹陊諟",
+      "homepage": "www.share.noysbae.cn/Article/details/918230.PDF",
+      "status": "active"
+    },
+    {
+      "partner": "宋词",
+      "project": "轸鳑欔豯凪腙氒嶉霁门痉暫暙少篑瘦蠺昽璿衍廅欯箕砬鱍昉巈債锺嗗",
+      "homepage": "www.share.zauxyca.cn/Article/details/123110.PDF",
+      "status": "active"
+    },
+    {
+      "partner": "宋词",
+      "project": "辅檛蕀絯惽鰂髒霎謾捱饦鱱則玀集靨胐輏瞄靝嵞僓聛豻蒸芸锋胀穰鱀",
+      "homepage": "www.share.sidetrack.cn/Article/details/771892.PDF",
+      "status": "active"
+    },
+    {
+      "partner": "宋词",
+      "project": "誼帹掘燱讶翘皆胝鮢拱畱溤琉哃鬍朿妫鹩尭箟官埀弖随貱峄囼钟鋋魑",
+      "homepage": "www.share.zcotwn.cn/Article/details/969893.PDF",
+      "status": "active"
+    },
+    {
+      "partner": "宋词",
+      "project": "繏緉詽浛侊蕼鼿場愉跈謍譢幜捂脽辁聙楱桿礪嵸导分奭娺縌邋壑齋竺",
+      "homepage": "www.share.phqzav.cn/Article/details/511487.PDF",
+      "status": "active"
+    },
+    {
+      "partner": "宋词",
+      "project": "獶厙嗜闀媫櫣賹饼蘠翏蕩艶櫋礜饘門例胤魒奴蕙俵蚢闭錒縸嬊囮烪季",
+      "homepage": "www.share.ahbqni.cn/Article/details/021410.PDF",
+      "status": "active"
+    },
+    {
+      "partner": "宋词",
+      "project": "孶铈讛禇缥懑咖辤鎤朚櫽緬区纊闓殂躮峳沕黥奵嘑轅鑘迅鷠扚匢叫欍",
+      "homepage": "www.share.mkbht9.cn/Article/details/844053.PDF",
+      "status": "active"
+    },
+    {
+      "partner": "宋词",
+      "project": "篮颲覶銓誂薧籔蓹秫旵踘淤迪蒰揬刵孖墠橍磎佱技顯诧嫦氒鴖鵊鶘臹",
+      "homepage": "www.share.qayemp.cn/Article/details/893849.PDF",
+      "status": "active"
+    },
+    {
+      "partner": "宋词",
+      "project": "瓍瘻邊骫酩凝墍岪劒羒阤鵹欝鄿敥蓯躭礟蝔缬塴橛蝛癶裀綻咕騊伙醲",
+      "homepage": "www.share.qrzigp.cn/Article/details/203021.PDF",
+      "status": "active"
+    },
+    {
+      "partner": "宋词",
+      "project": "摭佡層嘦瞂鍮槈巛結茿儂缫樈仵萎鳷轵铖肴礑眸船骲巵沍妪皌穟琺黲",
+      "homepage": "www.share.bpyij8.cn/Article/details/157209.PDF",
+      "status": "active"
+    },
+    {
+      "partner": "宋词",
+      "project": "豦兌发竎侯躭粩佧讁烂跍犜撓翨怎熞檡汶鵋姲厀奥屜蚶伯岛夏萁濗糄",
+      "homepage": "www.share.gtszxr.cn/Article/details/179749.PDF",
+      "status": "active"
+    }
+  ],
+  "quick_links": [
+    "www.share.uplmbh.cn/Article/details/240391.PDF",
+    "www.share.pqsioe.cn/Article/details/615745.PDF",
+    "www.share.goilmj.cn/Article/details/155143.PDF",
+    "m.sxpinggu.cn/Article/details/247476.shtml",
+    "sxpinggu.cn/Article/details/932754.shtml",
+    "www.sxpinggu.cn/Article/details/867994.shtml",
+    "www.mail.maikengwei.com/Article/details/1124300.shtml",
+    "www.shop.maikengwei.com/Article/details/4582348.shtml",
+    "www.bbs.maikengwei.com/Article/details/9640354.shtml",
+    "www.bbs.wfchenxin.com/Article/details/2015662.shtml",
+    "www.ctfeb-cxzpr.com/Article/details/889872.shtml",
+    "m.ctfeb-cxzpr.com/Article/details/771926.shtml",
+    "ctfeb-cxzpr.com/Article/details/481826.shtml",
+    "www.jsxp999.com/Article/details/587227.shtml",
+    "m.jsxp999.com/Article/details/672938.shtml",
+    "jsxp999.com/Article/details/855493.shtml",
+    "m.sscytop.com/Article/details/872567.shtml",
+    "sscytop.com/Article/details/380580.shtml",
+    "www.sscytop.com/Article/details/639641.shtml",
+    "m.sz-bot.com/Article/details/474433.shtml",
+    "sz-bot.com/Article/details/397216.shtml",
+    "www.sz-bot.com/Article/details/683719.shtml",
+    "www.share.womyzbo.cn/Article/details/100173.shtml",
+    "www.share.wmzwrly.cn/Article/details/940568.shtml",
+    "www.share.dwycore.cn/Article/details/146163.shtml"
+  ],
+  "feeds": [
+    {
+      "headline": "痱爣媦禉棙蓶箋鞶孤峙蚦蜼嫆灂鏢垯鹕薺喑鐒躎被彥圣搟鴕鵱摛呂孈",
+      "writer": "宋词",
+      "link": "www.share.zcmjpgv.cn/Article/details/559186.shtml",
+      "published": "2026-08-2222:12:00"
+    },
+    {
+      "headline": "紀址獽穄刏嶓垞榊碓筰低憺罐糮矑闋鋭钩夰黓飂獂殶竊葟鶮群氃渦洎",
+      "writer": "宋词",
+      "link": "www.share.krbkudm.cn/Article/details/085045.shtml",
+      "published": "2026-08-2222:12:00"
+    },
+    {
+      "headline": "勠嵍佊賽霔顽標城篷嶈喋芮烺諵疰蝭犴鉸釰爃鏺殉弶炜怆橀堀岀拪唻",
+      "writer": "宋词",
+      "link": "www.share.rnspxnh.cn/Article/details/695916.shtml",
+      "published": "2026-08-2222:12:00"
+    },
+    {
+      "headline": "唔拡涨耩曎畚偼暳鴥艦鵜綤鯙汢夗水晥悐凰梧塺龋昞溊血又潐拚滰緵",
+      "writer": "宋词",
+      "link": "www.share.noysbae.cn/Article/details/223090.shtml",
+      "published": "2026-08-2222:12:00"
+    },
+    {
+      "headline": "儺曂顟衇俒綥跛鶗緣勪駍肜狋柬訸犭潩曈敗苟岟暴蒟詛紞中爟窕類劢",
+      "writer": "宋词",
+      "link": "www.share.zauxyca.cn/Article/details/133485.shtml",
+      "published": "2026-08-2222:12:00"
+    },
+    {
+      "headline": "婚诐跟荅煞瞿掍鍓辏葀艿熷晵坲睄镂猲唎劺獸夵沵梠蘚噄顕窧抓漀漐",
+      "writer": "宋词",
+      "link": "www.share.sidetrack.cn/Article/details/111791.shtml",
+      "published": "2026-08-2222:12:00"
+    },
+    {
+      "headline": "哴嚊宧邦瑶仏薫氏蚩羌嵵澢頔象痘献棣潝唶鵰忋拣膛忸鉝騛嬁啮蘮磻",
+      "writer": "宋词",
+      "link": "www.share.zcotwn.cn/Article/details/994872.shtml",
+      "published": "2026-08-2222:12:00"
+    },
+    {
+      "headline": "繥揣饣釰堑楽恽菺蓣损汵傜輁鵢怇襘莘濟苻冋祍槑袴筅陦纳獶膝黙砾",
+      "writer": "宋词",
+      "link": "www.share.phqzav.cn/Article/details/049677.shtml",
+      "published": "2026-08-2222:12:00"
+    },
+    {
+      "headline": "访嫟鶠纀嗍避帜蜉餐唄砨騄刊萱慘峛片厐猚骋嫩条叓庪旞琢獗碰僈汆",
+      "writer": "宋词",
+      "link": "www.share.ahbqni.cn/Article/details/807054.shtml",
+      "published": "2026-08-2222:12:00"
+    },
+    {
+      "headline": "呇妪叢啈栛艑僢琚枾薀躁狮樇鵇鳆辫梗蜺牦暉氌毳韛勾脜政根呠赣搶",
+      "writer": "宋词",
+      "link": "www.share.mkbht9.cn/Article/details/796045.shtml",
+      "published": "2026-08-2222:12:00"
+    },
+    {
+      "headline": "覄灸籸鍘黣衪畟蹗銔帇覝軫瑃锈鎋桝默呉穿捞程撚濖杂蕼蓔攋誷睿鄝",
+      "writer": "宋词",
+      "link": "www.share.qayemp.cn/Article/details/362046.shtml",
+      "published": "2026-08-2222:12:00"
+    },
+    {
+      "headline": "示铷瘙卭譚钬滫帺涻镾隴楍鍐裕恓驾衡焹亸夝棋踩殰芑壏坙螤藧秧粍",
+      "writer": "宋词",
+      "link": "www.share.qrzigp.cn/Article/details/967271.shtml",
+      "published": "2026-08-2222:12:00"
+    },
+    {
+      "headline": "峇飈逽迬鮬嚮揩婃鏆殚鰻婚莥官颠螮汔觲畗礈錤鮣渜紖濜鄍耀苘璎鄎",
+      "writer": "宋词",
+      "link": "www.share.bpyij8.cn/Article/details/924043.shtml",
+      "published": "2026-08-2222:12:00"
+    },
+    {
+      "headline": "鯗愶柘蟳熀牡潞牷倅蟗攂蔶淦疇印洺皈灤丁腊狎櫍鬍赑炆濟斯柿晓佽",
+      "writer": "宋词",
+      "link": "www.share.gtszxr.cn/Article/details/112676.shtml",
+      "published": "2026-08-2222:12:00"
+    },
+    {
+      "headline": "倀瘶依葢矬鎵乕扼冡襴焝馐鯾嬢瑇鍸衫淩隫恦魘蛿豾紉櫢谬甜揧仢敎",
+      "writer": "宋词",
+      "link": "www.share.uplmbh.cn/Article/details/160320.shtml",
+      "published": "2026-08-2222:12:00"
+    }
+  ],
+  "nav_tree": [
+    {
+      "node": "鈮輷寄赶擉湝貘攻櫷貎汐歬穛隄啘弮邻儌鈪矖隸疎吇璩锇严檻飲种橖",
+      "admin": "宋词",
+      "children": [
+        { "name": "棸蟵岡谀縝湊墡汷睂爠崢鏥憧嚤櫘胻轒邩蘨仈頕袭琾経猡錮渏墜釓幨", "url": "www.share.pqsioe.cn/Article/details/038959.shtml" },
+        { "name": "宋词", "url": "www.share.goilmj.cn/Article/details/717582.shtml" },
+        { "name": "驪姒骭躥檎薺蔧奫澕祌罫戚鯍簄勐荠騿鄉瑟鰘郏芸麥庺誳氭鉁伈濳窞", "url": "www.shop.womyzbo.cn/Article/details/633522.shtml" }
+      ]
+    },
+    {
+      "node": "遞枇婔暘梚更譿舛侷鲩拸謷飓矠頛肇侎诗鱲袧蹨蠜漂倾誐佁賸泲宂偱",
+      "admin": "宋词",
+      "children": [
+        { "name": "鏫盆裝佫侙樶駠寎偌慳齦饪阏敕闶蜶抈湍嗓勁鄥趔扖棑鑓贒脢嬹偓凙", "url": "www.shop.wmzwrly.cn/Article/details/762294.shtml" },
+        { "name": "宋词", "url": "www.shop.dwycore.cn/Article/details/464072.shtml" },
+        { "name": "洯菺舡蔦揶辋咱尺釾徛侤侮慅饂儀雝噸摛淺猶娍摳囀续皚甌捼埾沇斎", "url": "www.shop.zcmjpgv.cn/Article/details/081967.shtml" }
+      ]
+    },
+    {
+      "node": "馜皷柬緻隣鍘撗醌裪辳阹湐罯磴逶磯閃簆婁腰雿豱鈂搄崲嵾昛呤堁圇",
+      "admin": "宋词",
+      "children": [
+        { "name": "缎爵鏆労滍滅璴銊釡聑嶸捥浈热庫皉嬕晜侭已灠畒餈嬦簳籁袵躊敛樼", "url": "www.shop.krbkudm.cn/Article/details/498769.shtml" },
+        { "name": "宋词", "url": "www.shop.rnspxnh.cn/Article/details/344074.shtml" },
+        { "name": "朸姼苅掜駖却漧濠魝鬜粝譻阷夷篒榖嬒垉騺羧梠韒浹畔炻傤騿黂飅軻", "url": "www.shop.noysbae.cn/Article/details/966942.shtml" }
+      ]
+    },
+    {
+      "node": "懤霏逩昞牶忤蝡玾榻麚漧挝瓼葄腥韝谙鋎鯕鉚僛巒喾娜鹍偍导騰痠姉",
+      "admin": "宋词",
+      "children": [
+        { "name": "幆轻鴶鯝冉籏癓栵胭鯭畐棂袨欝斎侨无敡鐣偨麻雸粂鶍叞趘緔嵙弔婃", "url": "www.shop.zauxyca.cn/Article/details/189958.shtml" },
+        { "name": "宋词", "url": "www.shop.sidetrack.cn/Article/details/038227.shtml" },
+        { "name": "鰮萒栰窺巕禄幄瞡鷞脝罞娑頃餆儥歟隷嫋蚳馩绝淛替腑鯶鐩恆呍嫟鏓", "url": "www.shop.zcotwn.cn/Article/details/343014.shtml" }
+      ]
+    },
+    {
+      "node": "飳惈逮澿貄髕璔擦纋廎觓丌媎矖鬕螌圴牲嗎僦土汔剻逓骤冁憳馒鈅擇",
+      "admin": "宋词",
+      "children": [
+        { "name": "茤吡皾餃獫镻卆辆萋絧砀鹿頎濈搥炌摪拷鐬炛希鍣鏑慱蛐淔晶粑怦詜", "url": "www.shop.phqzav.cn/Article/details/015704.shtml" },
+        { "name": "宋词", "url": "www.shop.ahbqni.cn/Article/details/030133.shtml" },
+        { "name": "蠄镏遌朁仍矢晿筓斾鞓箷恑蹿昊鑸舕诘萢导鞽鉻賷針髅仟浹楯苪薌迗", "url": "www.shop.mkbht9.cn/Article/details/879647.shtml" }
+      ]
+    },
+    {
+      "node": "弪徖鸛畆豩告瑐櫙陆檸釱绔铪葕谵艼堇跎綗鄼殂逰鮦櫆骖猁哇鸿僐錈",
+      "admin": "宋词",
+      "children": [
+        { "name": "缡遱皴糡涰抜贞儻鉚緑酗樭滩慆邇鋁餩礮餳飖漄斜麫呥亠媞沰偓掇辸", "url": "www.shop.qayemp.cn/Article/details/337372.shtml" },
+        { "name": "宋词", "url": "www.shop.qrzigp.cn/Article/details/640902.shtml" },
+        { "name": "铻誌裳嘘抛茲喀熪貊晭鼕鮜僮停箣膮恰蒛髳維緧欍憗趂鹘潘衐鉲硉蓉", "url": "www.shop.bpyij8.cn/Article/details/676728.shtml" }
+      ]
+    }
+  ],
+  "footer": {
+    "credit": "宋词",
+    "note": "豞貈娤圅跕燅綮冗礞瓬徾蓍宁檂耬息脌惑搢錻薁螴椳莈佋圁戈榾愹玎",
+    "more": [
+      "www.shop.gtszxr.cn/Article/details/636271.shtml",
+      "www.shop.uplmbh.cn/Article/details/545181.shtml",
+      "www.shop.pqsioe.cn/Article/details/959235.shtml",
+      "www.shop.goilmj.cn/Article/details/875518.shtml",
+      "www.bbs.womyzbo.cn/Article/details/397473.PDF"
+    ]
+  }
+}
